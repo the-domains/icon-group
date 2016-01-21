@@ -1,0 +1,28 @@
+name: iCON group
+favicon: null
+layout_spectrum: 0.8213480317499489
+typography_spectrum: 0.3808724826667458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6723746908828616
+  lightness: 0.20043559954501688
+  saturation: 0.5387873342260718
+  rhythmicContrast: 0.04729734640568495
+purpose: []
